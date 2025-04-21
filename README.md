@@ -96,7 +96,7 @@ inventaris/
 
 ## 📸 Tampilan Aplikasi
 
-![image](https://github.com/user-attachments/assets/a547216a-54f5-4ab2-b562-3c440737deee)k
+![image](https://github.com/user-attachments/assets/a547216a-54f5-4ab2-b562-3c440737deee)
 ![image](https://github.com/user-attachments/assets/17082fe2-c642-46c5-be6e-e0f75fc377e5)
 ![image](https://github.com/user-attachments/assets/954f32a0-5b60-4348-8ec8-a440ad8b7892)
 
